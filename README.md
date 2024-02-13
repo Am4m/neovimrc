@@ -1,1 +1,1 @@
-"# neovimrc" 
+# neovimrc
